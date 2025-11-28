@@ -2,7 +2,7 @@
 <h3 align="center">🚀 .NET Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/batuhanorkunn/">
+  <a href="https://www.linkedin.com/in/batuhan-orkun-ince-5666b3219">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:batuhanorkunn@gmail.com">
