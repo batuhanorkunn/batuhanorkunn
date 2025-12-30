@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">🚀 .NET Developer</h3>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=239120&center=true&vCenter=true&width=435&lines=.NET+Developer;Backend+Enthusiast;Clean+Architecture+Lover;Computer+Engineering+Student" alt="Typing SVG" />
+  </a>
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/batuhan-orkun-ince-5666b3219">
@@ -14,12 +18,13 @@
 
 ### 👨‍💻 About Me
 
-I am a final-year **Computer Engineering** student based in **Konya, Türkiye**. My primary focus is backend development with the **.NET ecosystem**, building scalable and high-performance applications. I am also proficient in **Node.js** and **React**, allowing me to adapt to different tech stacks easily.
+Hi there! I am a senior **Computer Engineering** student (Full Scholarship) based in **Konya, Türkiye**. Currently, I am working as a **Software Development Intern at Intellium**, where I engineer scalable backend solutions using **.NET Core** and **PostgreSQL**.
 
-- 🔭 I’m currently working on advanced **.NET Core** & **Microservices** projects.
-- 🌱 I’m currently learning **Docker**, **Kubernetes** & **System Architecture**.
-- 💬 Ask me about **C#, .NET, Node.js, SQL & NoSQL Databases**.
-- ⚡ Fun fact: I am a highly industrious, adaptable, and team-oriented individual.
+- 🔭 Currently working on: **RESTful APIs** & **Digital Transformation Projects** at **Intellium**.
+- 💼 Previous experience: **ASELSAN Konya** (Backend Intern) & **TÜMOSAN** (IT Intern).
+- 🌱 Learning: **Microservices**, **SignalR**, and **System Optimization**.
+- 💬 Ask me about: **C#, .NET, Entity Framework, MongoDB & SQL**.
+- ⚡ Fun fact: I enjoy turning complex architectural problems into simple, working code.
 
 ---
 
@@ -32,6 +37,7 @@ I am a final-year **Computer Engineering** student based in **Konya, Türkiye**.
   <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SignalR-125093?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 **Database & Cloud Tools**
@@ -41,6 +47,14 @@ I am a final-year **Computer Engineering** student based in **Konya, Türkiye**.
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+**Architecture & Security**
+<p>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/N--Tier-Architecture-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean-Architecture-orange?style=for-the-badge" />
 </p>
 
 **Frontend**
